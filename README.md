@@ -9,7 +9,7 @@
 
 ---
 
-<p>This model is used for finding the lanes on the road in our institute. This information is fed to another package which gives u the polynomial data for the lanes. This worked pretty well in many cases like shown below</p>
+<p>This model is used for finding the lanes on the road in our institute. This information is fed to another package which gives u the polynomial data for the lanes. This worked pretty well in many cases like shown below. he Tmodelrun.py file is to publish it to ros image topic</p>
 
 
 https://github.com/KeerthivasanIITMadras/YOLOP/assets/94305617/7805701d-ed9e-4ded-bb64-9cd1017f11aa
